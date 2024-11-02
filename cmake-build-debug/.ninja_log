@@ -1,8 +1,0 @@
-# ninja log v6
-663	714	1730553158532706637	FirstProject	51d545d5aae7991f
-7	892	1730552250606449559	CMakeFiles/FirstProject.dir/main.cpp.o	fbb2508a42ccf3c1
-14	663	1730553157883720254	CMakeFiles/FirstProject.dir/src/Initializer.cpp.o	49d09049bba3627a
-3	83	1730554096630312839	build.ninja	a0078b387c4748b9
-10	735	1730554110211191787	CMakeFiles/FirstProject.dir/main.cpp.o	d0156c12a7bf9478
-10	741	1730554110211547993	CMakeFiles/FirstProject.dir/src/Initializer.cpp.o	5c1012beccfb0e1b
-741	858	1730554110941995797	FirstProject	51d545d5aae7991f
